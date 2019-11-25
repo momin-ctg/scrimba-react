@@ -1,8 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Footer from "./components/Footer";
 
-function App() {
+function Main() {
   return (
     <div className="App">
       <header className="App-header">
@@ -16,11 +17,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Scrimba Bootcamp
         </a>
       </header>
+      <Footer/>
     </div>
   );
 }
 
-export default App;
+export default Main;
