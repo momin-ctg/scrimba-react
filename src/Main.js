@@ -3,13 +3,18 @@ import logo from './logo.svg';
 import './App.css';
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import Card from "./components/Card";
 
 function Main() {
     return (
         <div className="App">
             <Header/>
             <header className="App-header">
-                <img src={logo} className="App-logo" alt="logo"/>
+                <div>
+                    <Card cardColor="red"/>
+                    <Card cardColor="blue"/>
+                    <Card cardColor="green"/>
+                </div>
                 <p>
                     Edit <code>src/App.js</code> and save to reload.
                 </p>
