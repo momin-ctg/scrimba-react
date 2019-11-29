@@ -12,7 +12,7 @@ function Main() {
             <header className="App-header">
                 <div>
                     <Card cardColor="red"/>
-                    <Card cardColor="blue"/>
+                    <Card/>
                     <Card cardColor="green"/>
                 </div>
                 <p>

@@ -7,9 +7,18 @@ function Card(props) {
         width: 100,
     };
 
+
     return (
         <div style={styles}></div>
-    )
+    );
+
+
 }
+
+Card.defaultProps = {
+    width: 100,
+    height: 100,
+    cardColor: 'yellow',
+};
 
 export default Card;

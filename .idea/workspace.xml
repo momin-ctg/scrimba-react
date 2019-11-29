@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="106a39ef-0fc3-41de-885d-6f3c8b772c9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +49,6 @@
       <recent name="C:\Users\Dell\WebstormProjects\scrimba-bootcamp\src\components" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -76,6 +64,18 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -89,6 +89,10 @@
       <workItem from="1574615449768" duration="703000" />
       <workItem from="1574692550404" duration="3224000" />
       <workItem from="1574835279233" duration="1010000" />
+      <workItem from="1574955009245" duration="23000" />
+      <workItem from="1574955092525" duration="762000" />
+      <workItem from="1575017448044" duration="194000" />
+      <workItem from="1575018113204" duration="243000" />
     </task>
     <servers />
   </component>
@@ -109,6 +113,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575017367836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1575017367836" />
     <state width="2283" height="342" key="GridCell.Tab.0.bottom" timestamp="1574835521559">
       <screen x="0" y="23" width="2304" height="1273" />
     </state>
